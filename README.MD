@@ -19,7 +19,7 @@
 
 # How to run
 
-> First of all, need to perform 2FA in your mail account - [Tutorial](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DDesktop)
+> First of all, need to perform 2FA in your mail account - [Tutorial](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DDesktop)  
 > And create new in-app password - [Tutorial](https://support.google.com/accounts/answer/185833?hl=en)  
 > Then, open the Python IDLE, open terminal & type following command:  
 >       ```pip install -r requirements.txt```  
