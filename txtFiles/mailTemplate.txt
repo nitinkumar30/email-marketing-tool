@@ -1,0 +1,11 @@
+Dear {{RECIPIENT_NAME}},
+
+I hope this email finds you well. I am writing to share some exciting news about {{PRODUCT_NAME}}. Our {{PRODUCT_NAME}} has just been released and we are thrilled to offer it to you!
+
+To celebrate the launch of our new product, we are offering a special discount to our loyal customers like you.
+
+Thank you for your continued support and we hope you enjoy our new product. If you have any questions or feedback, please don't hesitate to reach out to us at {{EMAIL_ADDRESS}}.
+
+Best regards,
+{{YOUR_NAME}}
+{{YOUR_COMPANY_NAME}}

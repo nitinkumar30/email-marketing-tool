@@ -1,0 +1,8 @@
+urlLinks = 'txtFiles/portals.txt'
+sender_email = 'nitinkumaranonymous@gmail.com'
+sender_password = 'yscyavvvqebrjtmk'
+mails_filename = 'txtFiles/mails.txt'
+mail_subject = 'New Product Release'
+product_name = 'SEO Expert'
+company_name = '--Company name here--'
+mailTemplateFile = 'txtFiles/mailTemplate.txt'
