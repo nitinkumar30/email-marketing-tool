@@ -1,6 +1,6 @@
 urlLinks = 'txtFiles/portals.txt'
-sender_email = 'nitinkumaranonymous@gmail.com'
-sender_password = 'yscyavvvqebrjtmk'
+sender_email = ''
+sender_password = ''
 mails_filename = 'txtFiles/mails.txt'
 mail_subject = 'New Product Release'
 product_name = 'SEO Expert'
